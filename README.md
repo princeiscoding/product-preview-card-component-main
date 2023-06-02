@@ -6,13 +6,9 @@ This is a solution to the [Product preview card component challenge on Frontend 
 
 - [Overview](#overview)
   - [The challenge](#the-challenge)
-  - [Screenshot](#screenshot)
   - [Links](#links)
-- [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
 - [Author](#author)
 
 ## Overview
@@ -26,8 +22,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://github.com/princeiscoding/product-preview-card-component-main)
+- Live Site URL: [Add live site URL here](https://fe-mentor-productcard.netlify.app/)
 
 ### Built with
 
@@ -66,14 +62,9 @@ To see how you can add code snippets, see below:
 
 3. General Css resets that can be applied before applying your own css like josh comeau's custom css reset.
 
-### Useful resources
-
-- [Example resource 1](https://www.example.com) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
-- [Example resource 2](https://www.example.com) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
-
 ## Author
 
-- Website - [Prince Chima](https://www.your-site.com)
+- Website - [Prince Chima](https://fe-mentor-productcard.netlify.app/)
 - Frontend Mentor - [@princeiscoding](https://www.frontendmentor.io/profile/yourusername)
 
 ```
